@@ -1,0 +1,6 @@
+com\sistemabancario\operationtype\domain\OperationType.class
+com\sistemabancario\operationtype\service\IOperationTypeService.class
+com\sistemabancario\operationtype\controller\OperationTypeController.class
+com\sistemabancario\operationtype\OperationtypeApplication.class
+com\sistemabancario\operationtype\repository\IOperationTypeRepository.class
+com\sistemabancario\operationtype\service\impl\OperationTypeService.class
